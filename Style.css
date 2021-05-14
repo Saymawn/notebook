@@ -1,0 +1,51 @@
+.body {
+    background: rgb(121, 172, 192);
+}
+
+.h6 {
+    color: rgb(51, 59, 168);
+}
+
+.li-style {
+    margin-bottom: 1px;
+    list-style-type: none;
+}
+
+.paper {
+    margin-top: 8px;
+}
+
+.backg {
+    height: 640px;
+    width: 250px;
+    background: rgba(255,255,255,0.9);
+    left: 50%;
+    top: 50%;
+    box-shadow: 0px 0px 5px 0px #888;
+}
+
+.note-list-height {
+    height: 65%;
+}
+
+
+.paper {
+    background-image: repeating-linear-gradient(white 0px, white 24px, steelblue 25px);
+}
+
+
+
+.remove-note{
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+.remove-note:hover {
+    size: 15px;
+}
+
+#btn {
+    margin-top: 10px;
+}
