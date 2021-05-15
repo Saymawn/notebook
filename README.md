@@ -5,3 +5,8 @@ also, I wrote comments for the JS file
 <br>
 Preview : 
 http://github.saymawn.ir/NoteBook/
+<br>
+-----------------------------------
+<br>
+linkdin : @saymawn
+instagram : @saymawn
